@@ -1,6 +1,6 @@
 # Belajar Command Linux v1
 ---
-###Table Of Contents
+### Table Of Contents
 - Linux Command
 - System Managements and Information
   - System Information
