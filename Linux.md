@@ -98,7 +98,7 @@ A Linux command is a program or utility that runs on the command line. A command
   ```
   ls *
   ``` 
-- Remove a File
+- Remove  a File
   - Remove a file:
   ```
   rm [file_name]
